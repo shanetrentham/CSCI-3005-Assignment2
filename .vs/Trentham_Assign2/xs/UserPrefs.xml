@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{08A4A3DC-57DB-47D7-8C44-D8B3D1C6CDC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trentham__Assign2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trentham_Assign2/Spaceship.cs">
+    <Files>
+      <File FileName="Trentham_Assign2/Program.cs" Line="1" Column="1" />
+      <File FileName="Trentham_Assign2/Planet.cs" Line="13" Column="10" />
+      <File FileName="Trentham_Assign2/PlanetBuilder.cs" Line="35" Column="6" />
+      <File FileName="Trentham_Assign2/Alien.cs" Line="75" Column="2" />
+      <File FileName="Trentham_Assign2/Spaceship.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trentham_Assign2" expanded="True">
+            <Node name="Trentham_Assign2" expanded="True">
+              <Node name="Spaceship.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
